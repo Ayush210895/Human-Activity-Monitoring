@@ -5,6 +5,7 @@ Dataset
 The following link provides human activity data for 15 subjects. Click on each subject to
 access the time series data. For this project consider accelerometer data for all the 15
 subjects for walking, running, climbing up and climbing down
+
 Task 1
 1. Apply natural visibility graph (NVG) and horizontal visibility graph (HVG) to the
 aforementioned data
@@ -18,6 +19,7 @@ each method (HVH and NVG))
 6. Generate scatter plots: average degree vs network diameter and color the points
 according to climbing up and climbing down (do this for each accelerometer
 signal and each method (HVH and NVG))
+
 
 
 Task 2
